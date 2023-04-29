@@ -69,5 +69,12 @@
     @media only screen and (max-height: 750px) {
       margin-bottom: 20px;
     }
+
+    .loading {
+      display: flex;
+      width: 100%;
+      justify-content: center;
+      align-items: center;
+    }
   }
 }
